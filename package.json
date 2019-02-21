@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-express",
+  "name": "react-express-starter",
   "version": "1.0.0",
   "description": "How to combine React and Express?",
   "main": "server.js",
