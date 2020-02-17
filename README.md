@@ -1,4 +1,4 @@
-# React Express Starter
+# react-express
 
 🤔 How to combine React and Express?
 
